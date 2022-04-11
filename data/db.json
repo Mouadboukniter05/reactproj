@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "Opening Party!",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\n\nWhere does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\nWhere can I get some?\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Plagiarism Checker by Grammarly",
+      "body": "Grammarly’s plagiarism checker can detect plagiarism from billions of web pages as well as from ProQuest’s academic databases. Our free plagiarism check will tell you whether or not your text contains duplicate content. Our Premium plagiarism check highlights passages that require citations and gives you the resources you need to properly credit your sources.\nThe plagiarism checker is part of a robust writing app that offers advanced feedback on writing mechanics like grammar and spelling as well as more complex stylistic issues like word choice, conciseness, tone, and more.",
+      "author": "mouad",
+      "id": 3
+    },
+    {
+      "title": "Why Use a Plagiarism Checker?",
+      "body": "You’re working on a paper and you’ve just written a line that seems kind of familiar. Did you read it somewhere while you were researching the topic? If you did, does that count as plagiarism? Now that you’re looking at it, there are a couple of other lines that you know you borrowed from somewhere. You didn’t bother with a citation at the time because you weren’t planning to keep them. But now they’re an important part of your paper. Is it still plagiarism if you’re using less than a paragraph?\n\nUsing someone else’s text without attribution is plagiarism, whether you meant to do it or not. Unintentional plagiarism of even a sentence or two can have serious consequences. For students, plagiarism often means a failing grade, academic probation, or worse. Fortunately, there is a tool that can help. Grammarly’s online plagiarism checker can help you ensure that you have properly identified and cited anything in your text that isn’t 100 percent original.\n\nWe originally designed our online plagiarism checker for students, but it’s a useful tool for writers in any field who want to create fresh, original, plagiarism-free work.",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "Blogger",
+      "body": "Blogger is an American online content management system which enables multi-user blogs with time-stamped entries. Pyra Labs developed it before being acquired by Google in 2003. Google hosts the blogs, which can be accessed through a subdomain of blogspot.com.",
+      "author": "mehdi",
+      "id": 5
+    },
+    {
+      "title": "zakaria",
+      "body": "ms3i inchalah",
+      "author": "yoshi",
+      "id": 6
+    },
+    {
+      "title": "abdo",
+      "body": "khassk tejib licence",
+      "author": "amine",
+      "id": 7
+    }
+  ]
+}
